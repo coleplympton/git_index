@@ -7,7 +7,7 @@ Welcome to my Bitbucket workspace. This repository serves as a central hub for m
 ## Repository Overview  
 
 ## **Personal Website**
-### **Repository:** [GitHub](https://github.com/coleplympton/coleplympton.github.io)  
+### **Repository:** [Personal Website](https://github.com/coleplympton/coleplympton.github.io)  
 ### **Live Site:** [coleplympton.github.io](https://coleplympton.github.io/)
 
 This repository hosts my personal website, which serves as a professional portfolio and a showcase of my technical projects. It includes:
@@ -22,7 +22,7 @@ This repository hosts my personal website, which serves as a professional portfo
 ---
 
 ## LIS4368 – Advanced Web Applications Development  
-### **Repository: [LIS4368 Repository](https://github.com/coleplympton/)** 
+### **Repository: [LIS4368 Repository](https://github.com/coleplympton/lis4368)** 
 
 **Course Focus:**  
 - Full-stack web development using Java, JSP, and Servlets  
@@ -31,21 +31,21 @@ This repository hosts my personal website, which serves as a professional portfo
 - Java EE and client-server interactions  
 
 #### Assignments  
-**[A1 - Web Development Setup and Version Control](https://github.com/coleplympton/)**  
+**[A1 - Web Development Setup and Version Control](https://github.com/coleplympton/lis4368/tree/master/a1)**  
   - Installed JDK and Tomcat for Java web development  
   - Set up a **Bitbucket repository** for version control  
   - Developed a **Hello-World** Java application  
   - Deployed the web application on Tomcat  
   - Included screenshots of installation and **running localhost server**  
 
-**[A2 - Java Servlets and Database Integration](https://github.com/coleplympton/)**  
+**[A2 - Java Servlets and Database Integration](https://github.com/coleplympton/lis4368/tree/master/a2)**  
   - Developed a **Java Servlet** to process HTTP requests  
   - Compiled and deployed a **Hello-World Servlet**  
   - Wrote a **Database Servlet** that connects to a MySQL database  
   - Created a **server-side database query servlet** to fetch and display data  
   - Provided screenshots of **query execution and servlet output**  
 
-**[A3 - Database-Driven Web Applications](https://github.com/coleplympton/)**  
+**[A3 - Database-Driven Web Applications](https://github.com/coleplympton/lis4368/tree/master/a3)**  
   - Designed and implemented **relational database tables**  
   - Inserted **sample data** (minimum of 10 records per table)  
   - Forward-engineered the database schema  
@@ -60,7 +60,7 @@ This repository hosts my personal website, which serves as a professional portfo
 ---
 
 ## LIS3781 – Advanced Database Management  
-### **Repository:** **[LIS3781 Repository](https://github.com/coleplympton/)**
+### **Repository:** **[LIS3781 Repository](https://github.com/coleplympton/lis3781)**
 
 **Course Focus:**  
 - Advanced relational database design and SQL  
@@ -69,21 +69,21 @@ This repository hosts my personal website, which serves as a professional portfo
 - Oracle SQL and MySQL database management  
 
 #### Assignments  
-**[A1 - Database Design and ERD](https://github.com/coleplympton/)**  
+**[A1 - Database Design and ERD](https://github.com/coleplympton/lis3781/tree/master/a1)**  
   - Installed AMPPS and set up a MySQL environment  
   - Created a **Bitbucket repository** for version control  
   - Designed an **Entity-Relationship Diagram (ERD)** based on given business rules  
   - Forward-engineered the data model into SQL  
   - Implemented at least **one SQL query solution**  
 
-**[A2 - MySQL Table Creation and User Privileges](https://github.com/coleplympton/)**  
+**[A2 - MySQL Table Creation and User Privileges](https://github.com/coleplympton/lis3781/tree/master/a2)**  
   - Created SQL tables with primary keys, foreign keys, and indexes  
   - Implemented **user privilege management** in MySQL  
   - Restricted access for different user roles  
   - Verified query execution, ensuring restricted users could not modify data  
   - Provided screenshots of **query execution, table structures, and permission errors**  
 
-**[A3 - Oracle Database Management](https://github.com/coleplympton/)**  
+**[A3 - Oracle Database Management](https://github.com/coleplympton/lis3781/tree/master/a3)**  
   - Logged into **Oracle SQL Server** using RemoteLabs  
   - Set up and configured Oracle SQL Developer  
   - Created and populated **Oracle tables** according to assignment specifications  
@@ -98,7 +98,7 @@ This repository hosts my personal website, which serves as a professional portfo
 ---
 
 ## LIS4930 – AI Applications  
-### **Repository:** **[LIS4930 Repository](https://github.com/coleplympton/)**
+### **Repository:** **[LIS4930 Repository](https://github.com/coleplympton/lis4930)**
 
 **Course Focus:**  
 - Artificial Intelligence and Machine Learning  
@@ -106,37 +106,37 @@ This repository hosts my personal website, which serves as a professional portfo
 - Deep Learning applications   
 
 #### Assignments  
-**[A1 - Introduction to AI and Version Control](https://github.com/coleplympton/)**  
+**[A1 - Introduction to AI and Version Control](https://github.com/coleplympton/lis4930/tree/master/a1)**  
   - Installed Python, Jupyter Notebook, and Visual Studio Code  
   - Created a Tip Calculator application using Python  
   - Practiced Git version control commands  
 
-**[A2 - Data Processing and Visualization](https://github.com/coleplympton/)**  
+**[A2 - Data Processing and Visualization](https://github.com/coleplympton/lis4930/tree/master/a2)**  
   - Processed CSV datasets using Pandas  
   - Analyzed and visualized data with Matplotlib and Seaborn  
 
-**[A3 - Statistical Data Analysis](https://github.com/coleplympton/)**  
+**[A3 - Statistical Data Analysis](https://github.com/coleplympton/lis4930/tree/master/a3)**  
   - Cleaned and sorted data using Pandas  
   - Used pivot and melt functions for reshaping data  
   - Generated data visualizations  
 
-**[A4 - Machine Learning and Regression Analysis](https://github.com/coleplympton/)**  
+**[A4 - Machine Learning and Regression Analysis](https://github.com/coleplympton/lis4930/tree/master/a4)**  
   - Analyzed advertising datasets  
   - Performed linear regression modeling  
   - Visualized correlations and residuals  
 
-**[A5 - Multi-Regression and AI Model](https://github.com/coleplympton/)**  
+**[A5 - Multi-Regression and AI Model](https://github.com/coleplympton/lis4930/tree/master/a5)**  
   - Created a multi-regression model  
   - Identified key data correlations  
   - Developed an AI-driven predictive analytics tool  
 
 #### Projects  
-**[P1 - Sentiment Analysis and Predictive Modeling](https://github.com/coleplympton/)**  
+**[P1 - Sentiment Analysis and Predictive Modeling](https://github.com/coleplympton/lis4930/tree/master/p1)**  
   - Used NLTK and Scikit-learn to analyze text reviews  
   - Tokenized, prepared, and performed sentiment analysis  
   - Built a spam detection model  
 
-**[P2 - Deep Learning Image Classification](https://github.com/coleplympton/)**  
+**[P2 - Deep Learning Image Classification](https://github.com/coleplympton/lis4930/tree/master/a2)**  
   - Trained a Convolutional Neural Network (CNN) for image classification  
   - Preprocessed images and converted them to pixel values  
   - Developed a graphical user interface (GUI) for model testing  
